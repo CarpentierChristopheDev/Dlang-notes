@@ -10,14 +10,14 @@ Cela génère le fichier dub.json qui décrit votre module :
 
 ```Json
 {
-  "authors" : [
-    "Chris"
-  ],
-  "copyright" : "Copyright © 2020, Chris",
-  "description" : "Exemple Dlang",
-  "license" : "GPLv3 or later",
-  "name" : "example1",
-  "targetType": "executable"
+  "authors" : [
+    "Chris"
+  ],
+  "copyright" : "Copyright © 2020, Chris",
+  "description" : "Exemple Dlang",
+  "license" : "GPLv3 or later",
+  "name" : "example1",
+  "targetType": "executable"
 }
 ```
 
