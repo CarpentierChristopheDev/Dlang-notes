@@ -18,11 +18,11 @@ Au vu des ses besoins de portabilité et de programmation à bas niveau, Bjarne 
 
 # Et le D dans tout ça  ?
 
-Walter Bright est l'auteur de plusieurs compilateurs pour ecmascripts, java (Visual Cafe), et du premier compilateur pour C++ qui ne passe pas par la création de code C intermédiaire (Symantec C++ qui deviendra Digital Mars C++ du nom de la petite société de Bright) 
+Walter Bright est l'auteur de plusieurs compilateurs pour Ecmascripts, Java (Visual Cafe), et du premier compilateur pour C++ qui ne passe pas par la création de code C intermédiaire (Symantec C++ qui deviendra Digital Mars C++ du nom de la petite société de Bright) 
 
 Dans les années 2000, Walter Bright créent le langage D, un langage compilé se basant sur C++ ayant l'expressivité et les caractèristiques des langages modernes interprétés. 
 
-Dans les années 2007, il est rejoint par Andrei Alexandrescu, considéré comme l'un des plus grands spécialistes du langage C++, on lui doit principalement les bibliothéques loki et mojo en c++ et de nombreux ouvrages dont "c++ modern design" et "the D Programming Language"
+Dans les années 2007, il est rejoint par Andrei Alexandrescu, considéré comme l'un des plus grands spécialistes du langage C++, on lui doit principalement les bibliothéques Loki et Mojo en c++ et de nombreux ouvrages dont "c++ modern design" et "the D Programming Language"
 
 Ensemble, ils implémentent la version 2 du langage D. Qui a très peu bougé depuis. 
 
