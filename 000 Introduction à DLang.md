@@ -8,13 +8,23 @@ C'est là qu'intervient la notion d'objets. L'objet encapsule les données et le
 
 Les autres grands principes de la programmation orientée objets, comme l'héritage et le polymorphisme apportent l'évolutivité et la réutilisabilité. L'héritage permet de créer une classe à partir d'une classe existante pour la spécialiser. Le polymorphisme permet de traiter de la même manière des ensembles de classes différentes pour peu qu'elles dérivent d'une classe commune.
 
-Si les langages objets émergents dans la années 60 : Simula, SmallTalk, Lisp c'est dans les années 1980 que l'on voit apparaitre C++, Objective-C, Common Lisp object System, Eiffel et bien d'autres qui ouvrent la voie à la Programmation Orientée Objet (POO) dans les différents secteurs du développement logiciel des années 90 (Java, JavaScript, Python, Ruby...)
+Si les langages objets émergents dans les années 60 : Simula, SmallTalk, Lisp c'est dans les années 1980 que l'on voit apparaitre C++, Objective-C, Common Lisp object System, Eiffel et bien d'autres qui ouvrent la voie à la Programmation Orientée Objet (POO) dans les différents secteurs du développement logiciel des années 90 (Java, JavaScript, Python, Ruby...)
 
-Dans l'optique de permettre une transition en douceur, sans perte de l'existant, Bjarne Stroustrup, créateur du C++,  a associé dès le début des années 80 les capacités de programmation structurée du langage C aux spécificités lui permettant d'appliquer les concepts de la P.O.O.
+Frustré de ne pas trouver, dans les années 80, un langage évolué capable de produire du code performant indépendant de l'architecture de la machine, Bjarne Stroustrup,   employé au centre de recherche Bell, après l'obtention de son doctorat sur les systèmes distribués, décide de créer un nouveau langage pour poursuivre ses recherches dans le développement de logiciels systèmes efficaces.
+
+En rejoingnant les laboratoires de recherche Bell, Bjarne Stroustrup a l'opportunité de côtoyer directement Dennis Ritchie, Brian Kernighan, les inventeurs du C, Bob Morris, Steve Johnson, Doug McIlroy et d’autres contributeurs majeurs des systèmes Unix.
+
+Au vu des ses besoins de portabilité et de programmation à bas niveau, Bjarne Stroustrup décide de créer son langage en adjoignant au langage C les spécificités de la P.O.O qui arrivent alors des pays du Nord avec la mouture de Simula67 du Norwegian Computing Centre d'Oslo.
 
 # Et le D dans tout ça  ?
 
-Dans les années 2000, Walter Bright, bientôt rejoint par Andrei Alexandrescu, créent le langage D, un langage compilé se basant sur C++ ayant l'expressivité et les caractèristiques des langages modernes interprétés. 
+Walter Bright est l'auteur de plusieurs compilateurs pour ecmascripts, java (Visual Cafe), et du premier compilateur pour C++ qui ne passe pas par la création de code C intermédiaire (Symantec C++ qui deviendra Digital Mars C++ du nom de la petite société de Bright) 
+
+Dans les années 2000, Walter Bright créent le langage D, un langage compilé se basant sur C++ ayant l'expressivité et les caractèristiques des langages modernes interprétés. 
+
+Dans les années 2007, il est rejoint par Andrei Alexandrescu, considéré comme l'un des plus grands spécialistes du langage C++, on lui doit principalement les bibliothéques loki et mojo en c++ et de nombreux ouvrages dont "c++ modern design" et "the D Programming Language"
+
+Ensemble, ils implémentent la version 2 du langage D. Qui a très peu bougé depuis. 
 
 Le langage D posséde, à l'instar de C++, les classes, les closures, les fonctions anonymes, la compilation de fonction à l'execution, les intervalles, les itérateurs, l'inférence de types, la généricité, ... 
 
