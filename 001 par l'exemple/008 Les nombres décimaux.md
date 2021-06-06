@@ -1,6 +1,6 @@
 # les nombres décimaux
 
-pour stocker les nombres décimaux en mémoire, on utilise de type "à virgule flottante".
+Pour stocker les nombres décimaux en mémoire, on utilise des type "à virgule flottante".
 
 ```D
 import std;
