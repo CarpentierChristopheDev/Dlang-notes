@@ -13,7 +13,7 @@ Ici, on import le module std complet.
 On déclare les variables "greeting" et "name" de type **string** chaine de caractères.
 
 ## Types
-Les autres types basics disponibles sont : 
+Les autres types de base disponibles sont : 
 - bool
 - byte, short, int, long, (sur 8, 16, 32, et 64 bits) 
 - ubyte, ushort, uint, ulong
