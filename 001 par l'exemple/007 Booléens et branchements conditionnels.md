@@ -7,7 +7,7 @@ Les opérateur de comparaisons `==, !=, <, >, <=, >=` retournent une valeur bool
 import std;
 void main()
 {
-	bool flag = true;
+    bool flag = true;
 	
     // Branchement conditionnel 
     if (flag) {
