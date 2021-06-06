@@ -39,3 +39,4 @@ if (condition1) {
 
 l'opérateur `p ? a : b` retourne *a* si la condition *p* est vrai, ou *b* dans le cas contraire. 
 
+la macro `to!` permet de réaliser des conversions explicite.
