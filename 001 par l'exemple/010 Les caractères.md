@@ -16,6 +16,11 @@ void main()
 }
 ```
 
+On peut définir un caractère en :
+- tapant le caractère, 
+- en indiquant son code 
+- en précisant sa référence d'entité HTML
+
 D support 3 types de caractère pour travailler avec Unicode : 
 
 |  type | taille en bits |
