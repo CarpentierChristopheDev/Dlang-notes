@@ -34,3 +34,27 @@ D support 3 types de chaines de caractères pour travailler avec Unicode :
 | dstring  | UTF-16 |
 | wstring  | UTF-32 |
 
+```D
+import std;
+
+void main()
+{
+
+    writeln(q"MON_DELIMITEUR
+ceci est une chaine qui 
+s'étend sur plusieurs lignes
+MON_DELIMITEUR");
+            
+    writeln(q"<Encore une chaine qui 
+s'étend sur plusieurs lignes
+>");
+
+    writeln(q"(Enfin dernière chaine qui 
+s'étend sur plusieurs lignes)");
+             
+}
+```
+
+La syntaxe `q"` dite "heredoc" permet de définir son propre délimiteur de chaine.
+
+Vous pouvez utilisez les caractères ouvrant/fermant : `(…)`  `<…>` ...
