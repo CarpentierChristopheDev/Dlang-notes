@@ -21,8 +21,8 @@ plusieurs lignes");
 
 Les caractères dans les chaines peuvent être représenté : 
 - à partir de leur lettre
-- avec le code unicode `\u....`
-- depuis l'entité HTML `\&...;`
+- avec le code unicode `\u…`
+- depuis l'entité HTML `\&…;`
 
 L'opérateur `~` permet la concaténation.
 
