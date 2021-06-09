@@ -2,7 +2,8 @@
 
 On doit régulièrement réaliser une opération pour tous les éléments d'un tableau.
 
-On peut réaliser cette opération avec un boucle, mais de nombreux opérateurs permettent de travailler directement sur chaque élément du tableau.
+On peut réaliser cette opération avec un boucle, mais de nombreux opérateurs 
+(`+ - / % ^^`, `++ --` ...) permettent de travailler directement sur chaque élément du tableau.
 
 ```D
 import std;
