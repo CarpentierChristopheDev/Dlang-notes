@@ -1,4 +1,4 @@
-# Constructeur de structures 
+# Constructeur de structure
 
 Chaque structure à un constructeur par défault, cela permet de déclarer et d'initialiser la variable. `Point p2 = Point(13,14);`
 
